@@ -20,7 +20,7 @@ int main(){
 
     // Loop principal que garante o funcionamento do programa.
     // ! = Diferente; 
-    // WindowShouldClose: Checa se o programa deve o usuário clicou no x ou ESC para que o programa feche.
+    // WindowShouldClose: Checa se o usuário clicou no x ou ESC para que o programa feche.
     while (!WindowShouldClose())
     {
         BeginDrawing();
