@@ -12,13 +12,13 @@ Entradas:
 4. Delta Time
 
 Tutoriais 2D:
-1. 2D Camera Mouse Zoom
+1. 2D Camera
+2. 2D Camera Mouse Zoom
 
 Texturas:
 1. Srcrec Dstrec
 
 Próximos Tutoriais:
-- 2D Camera
 - 2D Camera Platformer
 - 2D Camera Split Screen
 - Window Should Close
