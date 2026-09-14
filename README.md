@@ -9,7 +9,6 @@ Entradas:
 1. Input Keys
 2. Input Mouse
 3. Input Mouse Wheel
-4. Delta Time
 
 Tutoriais 2D:
 1. 2D Camera
@@ -18,6 +17,9 @@ Tutoriais 2D:
 
 Texturas:
 1. Srcrec Dstrec
+
+Outros:
+1. Delta Time
 
 Próximos Tutoriais:
 - 2D Camera Split Screen
